@@ -1,0 +1,17 @@
+name: dataopscourse
+name1: "dataopscourse1"
+name2: 'dataopscourse2'
+lauch_year: 2024
+is_live: No
+is_recorded: True
+avg_duration_of_classes: 15.2
+modules:
+  -Docker
+  -GitHub
+  -KBS
+  -Modern Soluitions
+Details_of_modules:
+  class1: Intro
+  class2: Installation
+  Class: demo
+  
